@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+.env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuración de VSCode
+.vscode/
+
+# Archivos de Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Datos grandes (sube solo un ejemplo si quieres compartir)
