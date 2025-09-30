@@ -6,3 +6,4 @@ plotnine
 jupyter
 jupyterlab
 ipykernel
+xgboost
