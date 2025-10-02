@@ -2,7 +2,7 @@
 
 ## Documentación
 Este proyecto tiene como finalidad aplicar técnicas de **análisis de datos** y **aprendizaje automático** al ámbito musical.
-Se parte de datasets que contienen miles de canciones de Spotify, junto con sus características técnicas de sonido y de popularidad.
+Se parte de datasets que contienen miles de canciones de Spotify, junto con sus características técnicas de sonido y de popliaridad.
 
 Para ello hemos utilizado uv, jupyter y librerias de gráficos y modelos de python.
 
@@ -14,14 +14,14 @@ uv:
 <pre>pip install pandas</pre>
 <pre>python -m pip install --upgrade pip</pre>
 
-
-
 El objetivo principal es explorar estas variables, comprender sus relaciones y entrenar modelos supervisados capaces de **clasificar géneros musicales**.
-- Filtrar los datos para compararlos.
-- Realizar un análisis exploratorio de datos (EDA) para identificar patrones entre variables musicales.
-- Preprocesar y escalar los datos para su correcto uso en modelos de aprendizaje automático.
-- Entrenar y evaluar distintos modelos predictivos (Gradient Boosting y Random Forest).
 
+<ul>
+<li>Filtrar los datos para compararlos.</li>
+<li>Realizar un análisis exploratorio de datos (EDA) para identificar patrones entre variables musicales</li>
+<li>Preprocesar y escalar los datos para su correcto uso en modelos de aprendizaje automático.</li>
+<li>Entrenar y evaluar distintos modelos predictivos (Gradient Boosting y Random Forest).</li>
+</ul>
 
 **Autores:** Bryan Zabala, Alexandru Popa, Nestor Tirado y Noé Rodríguez.
 **Curso:** 2º DAW – Desarrollo de Aplicaciones Web
