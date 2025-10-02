@@ -14,15 +14,16 @@ uv:
 <pre>pip install pandas</pre>
 <pre>python -m pip install --upgrade pip</pre>
 
-
-
 El objetivo principal es explorar estas variables, comprender sus relaciones y entrenar modelos supervisados capaces de **clasificar géneros musicales**.
-- Filtrar los datos para compararlos.
-- Realizar un análisis exploratorio de datos (EDA) para identificar patrones entre variables musicales.
-- Preprocesar y escalar los datos para su correcto uso en modelos de aprendizaje automático.
-- Entrenar y evaluar distintos modelos predictivos (Gradient Boosting y Random Forest).
 
+<li>
+<ul>Filtrar los datos para compararlos.</ul>
+<ul>Realizar un análisis exploratorio de datos (EDA) para identificar patrones entre variables musicales</ul>
+<ul>Preprocesar y escalar los datos para su correcto uso en modelos de aprendizaje automático.</ul>
+<ul>Entrenar y evaluar distintos modelos predictivos (Gradient Boosting y Random Forest).</ul>
+</li>
 
 **Autores:** Bryan Zabala, Alexandru Popa, Nestor Tirado y Noé Rodríguez.
 **Curso:** 2º DAW – Desarrollo de Aplicaciones Web
 **Asignatura:** Inteligencia Artificial(Javier Pérez Arteaga)
+
