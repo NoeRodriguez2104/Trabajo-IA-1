@@ -4,7 +4,9 @@ venv-clean/
 .env
 *.env
 transcriptions/*
+!transcriptions/.gitkeep
 audio/*
+!audio/.gitkeep
 __pycache__/
 *.pyc
 *.pyo
@@ -16,3 +18,4 @@ dist/
 build/
 .vscode/
 stems/*
+!stems/.gitkeep
