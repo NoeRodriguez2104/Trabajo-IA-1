@@ -1,7 +1,10 @@
 .venv/
+.venv-torch/
+venv-clean/
 .env
 *.env
-transcriptions/
+transcriptions/*
+audio/*
 __pycache__/
 *.pyc
 *.pyo
@@ -11,3 +14,5 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+.vscode/
+stems/*
